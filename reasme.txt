@@ -2,10 +2,8 @@ aaa
 
 bbb
 
-<<<<<<< HEAD
+
 ccc
 
 title2
-=======
-ccc
->>>>>>> b1d05d98c913e05269a43b65fbb5b014f693de55
+
